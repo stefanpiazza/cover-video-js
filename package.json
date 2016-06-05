@@ -1,0 +1,19 @@
+{
+    "name": "cover-video-js",
+    "version": "1.0.0",
+    "description": "Cover behaviour for video element",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stefanpiazza/cover-video-js.git"
+    },
+    "author": "Stefan Piazza",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stefanpiazza/cover-video-js/issues"
+    },
+    "homepage": "https://github.com/stefanpiazza/cover-video-js#readme"
+}
